@@ -1,4 +1,4 @@
-const CACHE = 'low-poly-drift-v1';
+const CACHE = 'low-poly-drift-v4';
 const ASSETS = ['./', './index.html', './three.min.js', './manifest.webmanifest',
   './icons/icon-192.png', './icons/icon-512.png', './icons/icon-maskable-512.png', './icons/apple-touch-icon.png'];
 
